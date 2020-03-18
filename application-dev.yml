@@ -10,6 +10,9 @@ management:
   security:
     enabled: false
 
+
+
+
 spring:
   aop:
     proxy-target-class: true
